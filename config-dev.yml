@@ -1,4 +1,4 @@
-#luxun
-config-dev.yml 01
+config:
+  info:"import org.springframework.web.bind.annotation.RestController"
 
 
